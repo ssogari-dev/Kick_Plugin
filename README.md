@@ -1,4 +1,4 @@
-# Kick_Plugin
+# Streamlink Plugin for KICK(beta)
 Streamlink Plugin for Streaming service `KICK.com(beta)`
 
 1. Download and Copy this file at Streamlink Directory (`%APPDATA%\Streamlink\Plugins`)
@@ -6,7 +6,7 @@ Streamlink Plugin for Streaming service `KICK.com(beta)`
 ```
 streamlink https://kick.com/{USER-ID} best -o {title}.ts
 ```
-
+<br>
 You can use **metadata tag**.
 | metadata | Description |
 |--|--|
